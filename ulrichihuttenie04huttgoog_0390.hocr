@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulrichihuttenie04huttgoog_0390.png"; bbox 0 0 3294 5408; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 247 1437 1168 1605">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 247 1437 1168 1605">
+     <span class='ocr_line' id='line_1_1' title="bbox 247 1437 1168 1605; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 247 1437 659 1604; x_wconf 65' lang='lat' dir='ltr'>&#39;HVTTENI</span> <span class='ocrx_word' id='word_1_2' title='bbox 702 1485 1168 1605; x_wconf 77' lang='lat' dir='ltr'><strong>POEMATVM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 498 1819 962 1918">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 498 1819 962 1918">
+     <span class='ocr_line' id='line_1_2' title="bbox 498 1819 962 1918; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 498 1819 668 1918; x_wconf 86' lang='lat' dir='ltr'>PARS</span> <span class='ocrx_word' id='word_1_4' title='bbox 705 1820 962 1918; x_wconf 84' lang='lat' dir='ltr'><strong>TERTIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 246 2123 1206 2509">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 246 2123 1206 2509">
+     <span class='ocr_line' id='line_1_3' title="bbox 608 2123 857 2200; baseline -0.004 0"><span class='ocrx_word' id='word_1_5' title='bbox 608 2123 857 2200; x_wconf 81' lang='lat' dir='ltr'><strong>CARMINA·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 246 2369 1206 2509; baseline 0.003 -3"><span class='ocrx_word' id='word_1_6' title='bbox 246 2429 624 2508; x_wconf 78' lang='lat' dir='ltr'><strong>PANEGYRIOVM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 656 2369 763 2509; x_wconf 74' lang='lat' dir='ltr'><strong>CVM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 791 2430 1206 2509; x_wconf 82' lang='lat' dir='ltr'><strong>EXOLAMATORIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 311 2738 1137 2817">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 311 2738 1137 2817">
+     <span class='ocr_line' id='line_1_5' title="bbox 311 2738 1137 2817; baseline 0.001 -4"><span class='ocrx_word' id='word_1_9' title='bbox 311 2738 759 2816; x_wconf 86' lang='lat' dir='ltr'><strong>DEPLORATORIVM</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 785 2740 1137 2817; x_wconf 83' lang='lat' dir='ltr'><strong>TRIVMPHALE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 567 3045 888 3128">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 567 3045 888 3128">
+     <span class='ocr_line' id='line_1_6' title="bbox 567 3045 888 3128; baseline 0.016 -21"><span class='ocrx_word' id='word_1_11' title='bbox 567 3045 613 3128; x_wconf 80' lang='lat' dir='ltr'><strong>[a.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 638 3049 888 3127; x_wconf 80' lang='lat'>1514...1517.]</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1652 5408">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1652 5408">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1652 5408; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1652 5408; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

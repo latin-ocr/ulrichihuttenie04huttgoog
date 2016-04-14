@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ulrichihuttenie04huttgoog_0008.png"; bbox 0 0 3294 5408; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 544 3634 987 3874">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 544 3634 987 3874">
+     <span class='ocr_line' id='line_1_1' title="bbox 656 3634 880 3720; baseline -0.004 -13"><span class='ocrx_word' id='word_1_1' title='bbox 656 3634 880 3720; x_wconf 59' lang='lat' dir='ltr'>,titium</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 544 3760 987 3874; baseline -0.002 -13"><span class='ocrx_word' id='word_1_2' title='bbox 544 3760 744 3874; x_wconf 42' lang='grc' dir='ltr'>υσεὲίῐώε</span> <span class='ocrx_word' id='word_1_3' title='bbox 775 3808 987 3874; x_wconf 54' lang='lat' dir='ltr'>written.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 455 4451 1079 4808">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 455 4451 1079 4808">
+     <span class='ocr_line' id='line_1_3' title="bbox 674 4451 869 4538; baseline -0.01 -15"><span class='ocrx_word' id='word_1_4' title='bbox 674 4452 699 4523; x_wconf 67' lang='grc'>1·</span> <span class='ocrx_word' id='word_1_5' title='bbox 708 4451 869 4538; x_wconf 61' lang='lat' dir='ltr'>timia.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 455 4583 1079 4668; baseline -0.011 -15"><span class='ocrx_word' id='word_1_6' title='bbox 455 4587 548 4668; x_wconf 58' lang='lat' dir='ltr'>Euda</span> <span class='ocrx_word' id='word_1_7' title='bbox 570 4597 623 4653; x_wconf 69' lang='lat' dir='ltr'>nuh</span> <span class='ocrx_word' id='word_1_8' title='bbox 644 4587 748 4664; x_wconf 56' lang='lat' dir='ltr'>valan</span> <span class='ocrx_word' id='word_1_9' title='bbox 770 4609 822 4650; x_wconf 72' lang='lat' dir='ltr'>unu</span> <span class='ocrx_word' id='word_1_10' title='bbox 845 4583 1079 4667; x_wconf 55' lang='lat' dir='ltr'>§.watham</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 722 4738 812 4808; baseline -0.022 0"><span class='ocrx_word' id='word_1_11' title='bbox 722 4738 812 4808; x_wconf 81' lang='lat'><strong>1862.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1652 5408">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1652 5408">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1652 5408; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1652 5408; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
